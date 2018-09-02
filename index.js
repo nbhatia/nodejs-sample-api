@@ -1,3 +1,7 @@
+/*
+ * Main Application file.
+ */
+
 const server = require('./lib/server')
 const config = require('./lib/config.js')
 
