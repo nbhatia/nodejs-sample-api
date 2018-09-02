@@ -1,5 +1,5 @@
 # nodejs-sample-api
-A simple "Hello World" API. 
+A simple "Hello World" web API implemented in Node. 
 
 Pirple.com The Node.js Master Class
 
